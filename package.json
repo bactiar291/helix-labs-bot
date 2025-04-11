@@ -1,0 +1,17 @@
+{
+  "name": "helix-labs-bot",
+  "version": "1.0.0",
+  "description": "Auto-deposit bot untuk Movement Bardock Testnet by ANAM",
+  "main": "run.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "author": "ANAM",
+  "license": "MIT",
+  "dependencies": {
+    "aptos": "^1.16.1",
+    "chalk": "^4.1.2",
+    "figlet": "^1.5.2"
+  }
+}
